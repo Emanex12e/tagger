@@ -4,9 +4,9 @@ import os
 import sqlite3
 import asyncio
 
-api_id = 28146275
-api_hash = 'ea9aca8caf15a6e62d71ecca5b6a404d'
-bot_token = '6259537725:AAEPgzwsLc5S6VpKvLNHXMJxfXaHbLK3IlA'
+api_id = YOUR_API_ID
+api_hash = 'YOUR_API_HASH'
+bot_token = 'YOUR_BOT_TOKEN'
 
 button3 = Button.url('➕ 𝐌𝐞𝐧𝐢 𝐐𝐫𝐮𝐩𝐚 𝐞𝐥𝐚𝐯𝐞 𝐞𝐭 ➕','https://t.me/Enotagbot?startgroup=true')
 button2 = Button.url('𝐊𝐎𝐌𝐄𝐊 📡', 'https://t.me/Enobots/23')
